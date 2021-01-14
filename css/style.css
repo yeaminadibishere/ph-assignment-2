@@ -1,0 +1,135 @@
+
+
+
+
+
+
+
+
+body{
+	font-family: 'Poppins', sans-serif;
+}
+
+h1,h2,h3{
+	font-family: 'Bebas Neue', cursive;
+	color: #363958;
+
+}
+h1{
+	font-size: 4rem;
+}
+#header_area{
+	background-color: #FFF9F4;
+}
+.orange_highlight{
+	color: tomato;
+}
+
+.custom_btn i{
+margin-right: 5px;
+}
+
+.all-hero-text{
+	margin-left:20%; 
+}
+.shoe_card_fotter{
+	border: 0px;
+	background-color:#fff; 
+	margin: 2%
+}
+.shoe_card_fotter h3{
+	font-size: 2.5rem;
+}
+
+
+.product_img{
+	border: 12px solid #fff;
+border-radius: 10%
+}
+.product_card{
+
+	border-radius: 6%;
+	border: 0;
+	
+
+}
+
+.features_section_img{
+	padding-left: 9%;
+}
+#testimonial{
+	padding-top: 10%;
+}
+.single-box{
+	position: relative;
+	margin-bottom: 30px;
+}
+.carousel-indicators li{
+	background-color:tomato;
+}
+.img-text{
+	
+	display: block;
+	background: tomato;
+	border-radius: 15px;
+	width: 100%;
+	height: 300px;
+	text-align: center;
+	padding: 40% 5%;
+	color: #fff;
+}
+.img-text h2{
+	
+	text-transform: uppercase;
+	letter-spacing: 2px;
+	font-size: 25px;
+}
+.img-text p{
+	font-size: 14px;
+}
+.img-area img{
+	border-radius: 50%;
+}
+.couponrounded{
+	border-radius: 10px;
+	border: 0;
+}
+.panda-card{
+	border: 2;
+	border-radius: 10px;
+}
+
+.heightmanager{
+	height: 200px;
+}
+.fotter_main a{
+	text-decoration: none !important;
+}
+.copyright{
+	padding-top: 10%;
+	text-align: center;
+
+}
+@media (max-width: 576px){
+	.all-hero-text{
+		margin-left: 0;
+	}
+	
+}
+
+
+@media(max-width:767px){
+	.p-3 {
+		padding: 4rem !important;
+	}
+}
+@media (max-width:450px){
+	.shoe_card_fotter button{
+		font-size: 12px;
+		padding:10% 12%;
+	}
+	.p-3 {
+		padding: 2.5rem !important;
+	}
+}
+
