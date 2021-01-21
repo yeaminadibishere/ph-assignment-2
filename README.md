@@ -1,3 +1,3 @@
 #eCommerce Project 
 
-For Programming Hero Project
+https://yeaminadibishere.github.io/ph-assignment-2/
